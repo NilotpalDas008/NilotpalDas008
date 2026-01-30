@@ -36,10 +36,12 @@
 
 ---
 
-### 🛠️ Tech Stack
+
+
+### 🧰 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,postgres,git,figma,firebase,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,aws,git,github,figma,tailwind,linux,docker" />
 </p>
 
 ---
