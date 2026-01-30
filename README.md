@@ -55,9 +55,6 @@
 <img src="https://streak-stats.demolab.com?user=NilotpalDas008&theme=github-dark" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NilotpalDas008&show_icons=true&theme=github_dark&count_private=true" />
-
----
 
 ### 🚀 Current Focus
 
