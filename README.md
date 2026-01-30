@@ -10,7 +10,6 @@
 <a href="https://twitter.com/nilotpal008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilotpal008" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nilotpal-das-95291b2a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilotpal-das-95291b2a2" height="30" width="40" /></a>
 <a href="https://instagram.com/neeel_008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeel_008" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@neel008-v69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@neel008-v69" height="30" width="40" /></a>
 <a href="https://discord.gg/Acz8bYyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Acz8bYyh" height="30" width="40" /></a>
 </p>
 
