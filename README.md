@@ -50,12 +50,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nilotpaldas008&show_icons=true&theme=github_dark&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=NilotpalDas008&show_icons=true&theme=github_dark&cache_seconds=1800" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=nilotpaldas008&theme=github-dark" />
+<img src="https://streak-stats.demolab.com?user=NilotpalDas008&theme=github-dark" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nilotpaldas008&show_icons=true&theme=github_dark&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=NilotpalDas008&show_icons=true&theme=github_dark&count_private=true" />
 
 ---
 
