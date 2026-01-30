@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilotpal Das</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilotpaldas008" alt="nilotpaldas008" /></a> </p>
 
 - 📫 How to reach me **nd8851715@gmail.com**
 
