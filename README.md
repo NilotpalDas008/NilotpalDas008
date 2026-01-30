@@ -3,14 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Building+Real+World+Projects;Always+Learning+New+Tech" />
 </p>
 
-<h3 align="center">Developer | Problem Solver | Building impactful solutions</h3>
 
-<p align="center">
-🚀 Turning ideas into real-world applications using modern tech  
-📚 Always learning • Always building • Always improving
-</p>
-
----
 
 ### 🧑‍💻 About Me
 
