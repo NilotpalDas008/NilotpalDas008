@@ -8,8 +8,8 @@
 ### 🧑‍💻 About Me
 
 - 💡 Passionate about full-stack development & scalable systems  
-- ⚙️ Love working with modern web technologies  
-- 🌱 Currently sharpening DSA + System Design  
+- ⚙️ Love working with modern web technologies
+  
 - 📫 Reach me at: **nd8851715@gmail.com**
 
 ---
