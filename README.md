@@ -6,7 +6,8 @@
  
 ### 🧑‍💻 About Me
 
-- 💡 Passionate about full-stack development & scalable systems  
+- 💡 Passionate about full-stack development & scalable systems
+- currently learning backend technologies  
 - ⚙️ Love working with modern web technologies
   
 - 📫 Reach me at: **nd8851715@gmail.com**
